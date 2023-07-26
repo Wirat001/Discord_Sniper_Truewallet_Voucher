@@ -24,6 +24,10 @@ const token = "qwertyuiop-12345"; // โทเค็นคนเท่านั�
 ```bash
 $ node .
 ```
-[![image](https://github.com/Wirat001/Discord_Sniper_Truewallet_Voucher/blob/main/demo.png)]
+![image](https://github.com/Wirat001/Discord_Sniper_Truewallet_Voucher/blob/main/demo.png)
 
 ขอให้สนุกกับการเขียนโค๊ต ขอบคุณครับ By Wirat001 || Discord Wirat001_
+
+
+![image](https://count.getloli.com/get/@Wirat001?theme=gelbooru-h)
+
